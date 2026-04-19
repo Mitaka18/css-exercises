@@ -1,1 +1,13 @@
-/* Add CSS Styling */
+.blk-btn, .ylw-btn {
+  font-size: 28px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.blk-btn {
+  background-color: #000026;
+  color: rgb(245, 294, 210);
+}
+
+.ylw-btn {
+  background-color: hsl(60, 85%, 35%);
+}
